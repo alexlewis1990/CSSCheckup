@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+.birdup{
+    font-weight: bolder;
+    text-align: center;
+    font-style: italic;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+#num-one{
+    margin: 25%;
+    padding: 25px;
+    width: 30%; 
+    border: solid red;
+}
